@@ -136,16 +136,9 @@ Iterative policy evaluation was implemented successfully using the Gymnasium Fro
 ---
 
 ## Inference
-
-```text
-
-
-
-```
+The experiment successfully evaluated a fixed random policy using iterative policy evaluation. The state-value function converged, showing the expected return for each state in the FrozenLake environment according to the Bellman expectation equation.
 
 
 
-
----
 
 
